@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'faraday'
+gem 'faraday', '>= 2.14.1'
 gem 'rake'
 gem 'kwalify'
 gem 'rspec'
